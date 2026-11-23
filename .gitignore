@@ -1,0 +1,8 @@
+# compiled classes
+bin/
+*.class
+# submission archive (built from src + build.xml)
+ass6.zip
+# IDE files
+.idea/
+*.iml
